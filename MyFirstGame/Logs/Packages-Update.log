@@ -1,8 +1,8 @@
 
-=== Tue Sep 15 13:54:42 2020
+=== Thu Sep 10 10:36:26 2020
 
 Packages were changed.
-Update Mode: mergeDefaultDependencies
+Update Mode: resetToDefaultDependencies
 
 The following packages were added:
   com.unity.collab-proxy@1.2.16
