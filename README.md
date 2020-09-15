@@ -2,7 +2,7 @@
 1st draft of TTR  
 Everything will remain barebones until phase 3
 
-Phases 1:
+Phase 1:
 Camera movement
 Character movement
 Scrolling background (possible left/right animations)
