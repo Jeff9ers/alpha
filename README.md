@@ -12,6 +12,7 @@ Phase 2:
 Power Ups
 Differnt possible models/skins
 Asset checklist
+Possible Boss Battles after attainning a certain score or level?
 
 Phase 3:
 Textures for background, charcter and objects
